@@ -20,5 +20,10 @@ npm run build
 npm run lint
 ```
 
+## Nombre creador
+```
+Miguel Huayhua Condori
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
